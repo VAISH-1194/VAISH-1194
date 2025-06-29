@@ -1,3 +1,4 @@
+# Hi there 👋, I'm Vaishnavi M
 
 ## A passionate Software developer from India
 ## 🚀 About Me
@@ -6,7 +7,6 @@ Creative and purpose-driven final-year engineering student skilled in software d
 Known for clear communication, confident public speaking, and leading innovative, real-world projects.
 Passionate about blending logic and creativity to build impactful, people-focused solutions.
 
-# Hi there 👋, I'm Vaishnavi M
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vaishnavi-madhavan.vercel.app/)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vaishnavimadhavan1194@gmail.com)
@@ -57,6 +57,6 @@ Passionate about blending logic and creativity to build impactful, people-focuse
 
 ## 📬 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/vaishnavi-m-004246255/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-m-004246255/)
 
 ---
